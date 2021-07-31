@@ -13,6 +13,7 @@ while (dif > 1.e-15 && k < 100)
 
     xi = x;
 end
+
 printf("\n %da. iteracao:",k);
 printf("\n x: %.16f - raiz encontrada",x);
 printf("\n |x-xi|: %.16f",dif);
