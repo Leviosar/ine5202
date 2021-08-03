@@ -25,3 +25,20 @@ Lembrando que por estarmos falando no momento de sistemas lineares, todas as equ
 3. Métodos de otimização
 
     Geramos uma função matricial F(X) = Xt * AX - 2BtX e buscamos o seu mínimo, que é da forma A⁻¹B, ou seja, a solução S do nosso sistema linear.
+
+
+## Solubilidade de sistemas lineares
+
+Sistemas podem ser classificados quanto a sua solubilidade, em geral temos:
+
+1. Sistemas possíveis e com solução determinada
+
+Sistemas resolvíveis e que possuem uma única solução
+
+2. Sistemas possíveis e sem solução determinada
+
+Sistemas resolvíveis mas que possuem infinitas soluções
+
+3. Sistemas impossíveis
+
+Sistemas não resolvíveis
